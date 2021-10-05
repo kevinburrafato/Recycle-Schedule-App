@@ -14,9 +14,9 @@ CRUD REST Api
 
 User Authentication
 
-POST = https://stark-spire-62017.herokuapp.com/api/register  
-POST = https://stark-spire-62017.herokuapp.com/api/login  
-POST = https://stark-spire-62017.herokuapp.com/api/logout 
+1. POST = https://stark-spire-62017.herokuapp.com/api/register  
+2. POST = https://stark-spire-62017.herokuapp.com/api/login  
+3. POST = https://stark-spire-62017.herokuapp.com/api/logout 
 
 ## Link
 
