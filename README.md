@@ -6,11 +6,11 @@ A simple PHP application that helps you and your family members keep track of th
 
 CRUD REST Api
 
-GET = https://stark-spire-62017.herokuapp.com/api/recycles
-POST= https://stark-spire-62017.herokuapp.com/api/recycles  
-PUT= https://stark-spire-62017.herokuapp.com/api/recycles/id 
-DELETE = https://stark-spire-62017.herokuapp.com/api/recycles/id 
-GET = https://stark-spire-62017.herokuapp.com/api/recycles/today (get today recycle schedule)
+1. GET = https://stark-spire-62017.herokuapp.com/api/recycles
+2. POST= https://stark-spire-62017.herokuapp.com/api/recycles  
+3. PUT= https://stark-spire-62017.herokuapp.com/api/recycles/id 
+4. DELETE = https://stark-spire-62017.herokuapp.com/api/recycles/id 
+5. GET = https://stark-spire-62017.herokuapp.com/api/recycles/today (get today recycle schedule)
 
 User Authentication
 
